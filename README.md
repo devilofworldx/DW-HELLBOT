@@ -1,9 +1,9 @@
 <h1 align="center">
-  <b>𝐓𝐇𝐄 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑-𝐇𝐄𝐋𝐋𝐁𝐎𝐓 🇮🇳</b>
+  <b>𝐓𝐇𝐄 𝐃𝐀𝐑𝐊-𝐇𝐄𝐋𝐋𝐁𝐎𝐓 🇮🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg" alt="The-HellBot">
+  <img src="[https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg](https://telegra.ph/file/3bbd3f8df41c2ff7929dc.jpg)" alt="The-HellBot">
 </p>
 
 <h6 align="center">
@@ -158,7 +158,7 @@
     Copyright (C) 2023 <a href="https://github.com/itzshukla">The-HellBot</a>
 </h4>
 
-Project [HellBot](https://github.com/itzshukla/STRANGER-HELLBOT) is free software: you can redistribute it and/or modify
+Project [HellBot](https://github.com/itzshukla/-HELLBOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
